@@ -1,0 +1,97 @@
+/*.App {
+  
+}*/
+
+.App-header {
+  background-color: #222;
+  height: 75px;
+  padding: 0.1px;
+  padding-bottom: 60px;
+  text-align: center;
+  color: white;
+  font-family: 'Neucha', cursive;
+}
+
+.App-title {
+  font-size: 32px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/*Css starts here*/
+
+.MainContainer{
+    margin-left: 12%;
+    margin-right:12%;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 16px;
+}
+
+/* the add url css*/
+
+.vidPlayer{
+    margin-top:13px;
+}
+
+input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: 1px solid frey;
+  border-radius: 1px;
+  width: 250px;
+}
+
+.btn{
+  padding: 7px 12px;
+  border-radius: 1px;
+  margin-bottom: 4px;
+  font-size: 1.2em;
+  height: 40px;
+  width: 120px;
+}
+.btn-primary{
+  height: 40px;
+  width: 170px;
+  font-size: 1.2em;
+}
+
+.btn-danger{
+  /*width: 42px;
+  height: 40px;
+  margin-left: 4px;
+  border-radius: 25px;
+  margin-bottom: 15px;
+  padding-bottom: 3px;
+  font-size:22px;*/
+}
+
+.cross{
+  margin-left: 5px;
+  font-size: 22px;
+  color: brown;
+  margin-bottom: 15px;
+}
+
+i:hover{
+  margin-left: 5px;
+  font-size: 25px;
+}
+
+
+button:hover {
+  background: #ccc;
+}
+
+.Lists{
+  font-size:25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
